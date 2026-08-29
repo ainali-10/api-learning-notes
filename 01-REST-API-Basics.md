@@ -245,11 +245,4 @@ https://api.example.com/v1/users/123
 - **GET** = Read, **POST** = Create, **PUT** = Replace, **PATCH** = Update, **DELETE** = Remove
 - Status codes tell you if request succeeded (2xx), redirected (3xx), had client error (4xx), or server error (5xx)
 - REST is **stateless** - each request stands alone
-- Use **proper HTTP methods** and status codes for clear, predictable APIs
-
----
-
-## Next Steps
-- Learn about error handling and responses
-- Study authentication methods (API keys, OAuth)
-- Practice with a real API (GitHub API is great!)
+- Use **proper HTTP methods** and status codes for clear, predictable APIs.
