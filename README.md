@@ -1,2 +1,2 @@
 # api-learning-notes
-Personal notes and learning materials for API development
+Personal notes and guides and things that im learning 
